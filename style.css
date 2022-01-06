@@ -9,8 +9,12 @@ h1{
     font-size: 30px;
 }
 .section-first{
-    display:flex;
-    padding-top: 5%;
+    display: flex;
+    width: 80%;
+    margin: 0 auto;
+    padding-top: 25px;
+    padding-left: 350px;
+    padding-right: 0%;
 }
 }
 .half-width{
@@ -18,7 +22,8 @@ h1{
     padding-left: 15%;
 }
 .half-width img{
-    width: 70%;
+    width: 40%;
+    padding-left: 50px;
 }
 .click-button{
     text-decoration: none;
@@ -28,12 +33,83 @@ h1{
     font-weight: 600px;
     border-radius: 5px;
 }
+#middel{
+    text-align: center;
+}
 #left-line{
     border-left: 4px solid tomato;
-    padding-left: 2%;
+    padding-left: 5%;
 }
-.mission-vission-goals{
+.next-tip{
+    width: 55%;
+    margin: 0 auto;
     display: flex;
-    justify-content: space-around;
-    padding: 40px;
+    justify-content:space-around;
+    padding: 20px;
+}
+.third-side{
+    display: flex;
+    padding-top: 3%;
+    gap: 1%;
+    margin-left: 22%;
+    justify-content:space-around;
+}
+.flexible-container{
+    padding-right: 450px;
+    text-align: justify;
+}
+.projects-talk{
+    display:flex;
+    width:80%;
+    padding-top: 5%;
+}
+.research-part{
+    padding-left: 350px;
+}
+.div-img img{
+    width: 150px;
+}
+.mission{
+    width: 250px;
+    border: 1px solid gray;
+    box-shadow: 4px 4px 12px gray;
+    border-radius: 10px;
+    background-color: rgb(170, 255, 227);
+}
+.vission{
+    width: 250px;
+    border: 1px solid gray;
+    box-shadow: 4px 4px 12px gray;
+    border-radius: 10px;
+    background-color: rgb(252, 240, 224);
+}
+.goals{
+    width: 250px;
+    border: 1px solid gray;
+    box-shadow: 4px 4px 12px gray;
+    border-radius: 10px;
+    background-color: rgb(201, 240, 241);
+}
+.just-out{
+    padding-left: 7px;
+}
+.img-code img{
+    width: 70%;
+    padding-left: 3%;
+}
+.last-img img{
+    width: 250px;
+}
+.last{
+    text-align: center;
+    background-color: black;
+    margin-bottom: 0 auto;
+}
+.font-color{
+    color: white;
+    padding-top: 1%;
+    margin-block-end: auto;
+}
+.last-red{
+    color: rgb(241, 65, 65);
 }
