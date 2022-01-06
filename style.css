@@ -12,6 +12,7 @@ h1{
     display:flex;
     padding-top: 5%;
 }
+}
 .half-width{
     width: 50%;
     padding-left: 15%;
@@ -30,5 +31,9 @@ h1{
 #left-line{
     border-left: 4px solid tomato;
     padding-left: 2%;
- 
+}
+.mission-vission-goals{
+    display: flex;
+    justify-content: space-around;
+    padding: 40px;
 }
