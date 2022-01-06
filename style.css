@@ -10,11 +10,10 @@ h1{
 }
 .section-first{
     display: flex;
-    width: 80%;
+    width: 80%%;
     margin: 0 auto;
     padding-top: 25px;
-    padding-left: 350px;
-    padding-right: 0%;
+    padding-left: 300px;
 }
 }
 .half-width{
@@ -22,8 +21,8 @@ h1{
     padding-left: 15%;
 }
 .half-width img{
-    width: 45%;
-    padding-left: 48px;
+    width: 50%;
+    padding-left: 60px;
 }
 .click-button{
     text-decoration: none;
@@ -41,22 +40,11 @@ h1{
     padding-left: 5%;
 }
 .next-tip{
-    width: 55%;
+    width: 65%;
     margin: 0 auto;
     display: flex;
     justify-content:space-around;
     padding: 20px;
-}
-.third-side{
-    display: flex;
-    padding-top: 3%;
-    gap: 1%;
-    margin-left: 22%;
-    justify-content:space-around;
-}
-.flexible-container{
-    padding-right: 450px;
-    text-align: justify;
 }
 .projects-talk{
     display:flex;
@@ -70,26 +58,40 @@ h1{
     width: 150px;
 }
 .mission{
-    width: 250px;
+    width: 300px;
     border-radius: 25px;
-    background-color: rgb(170, 255, 227);
+    background-color: rgb(245, 248, 203);
 }
 .vission{
-    width: 250px;
+    width: 300px;
     border-radius: 25px;
-    background-color: rgb(252, 240, 224);
+    background-color: rgb(248, 237, 228);
 }
 .goals{
-    width: 250px;
+    width: 300px;
     border-radius: 25px;
     background-color: rgb(201, 240, 241);
 }
 .just-out{
     padding-left: 7px;
 }
+.third-side{
+    display: flex;
+    width: 80%%;
+    margin: 0 auto;
+    padding-top: 25px;
+    padding-left: 200px;
+}
+.fourth-side{
+    width: 150%;
+    padding-right: 250px;
+}
 .img-code img{
     width: 70%;
-    padding-left: 3%;
+    margin-left: 15%;
+}
+.link-pad{
+    padding-top: 15px;
 }
 .last-img img{
     width: 250px;
