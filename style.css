@@ -22,8 +22,8 @@ h1{
     padding-left: 15%;
 }
 .half-width img{
-    width: 40%;
-    padding-left: 50px;
+    width: 45%;
+    padding-left: 48px;
 }
 .click-button{
     text-decoration: none;
@@ -71,23 +71,17 @@ h1{
 }
 .mission{
     width: 250px;
-    border: 1px solid gray;
-    box-shadow: 4px 4px 12px gray;
-    border-radius: 10px;
+    border-radius: 25px;
     background-color: rgb(170, 255, 227);
 }
 .vission{
     width: 250px;
-    border: 1px solid gray;
-    box-shadow: 4px 4px 12px gray;
-    border-radius: 10px;
+    border-radius: 25px;
     background-color: rgb(252, 240, 224);
 }
 .goals{
     width: 250px;
-    border: 1px solid gray;
-    box-shadow: 4px 4px 12px gray;
-    border-radius: 10px;
+    border-radius: 25px;
     background-color: rgb(201, 240, 241);
 }
 .just-out{
