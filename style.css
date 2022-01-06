@@ -46,14 +46,6 @@ h1{
     justify-content:space-around;
     padding: 20px;
 }
-.projects-talk{
-    display:flex;
-    width:80%;
-    padding-top: 5%;
-}
-.research-part{
-    padding-left: 350px;
-}
 .div-img img{
     width: 150px;
 }
@@ -93,8 +85,20 @@ h1{
 .link-pad{
     padding-top: 15px;
 }
+.projects-talk{
+    display: flex;
+    width: 80%%;
+    margin: 0 auto;
+    padding-top: 25px;
+    padding-right: 200px;
+}
+.research-part{
+    width: 150%;
+    padding-left: 250px;
+}
 .last-img img{
-    width: 250px;
+    width: 70%;
+    margin-left: 65px;
 }
 .last{
     text-align: center;
